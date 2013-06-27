@@ -1,4 +1,4 @@
-package org.usesoft.poker.parser;
+package com.usesoft.poker;
 
 /**
  * Hello world!

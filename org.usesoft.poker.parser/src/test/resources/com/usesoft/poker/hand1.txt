@@ -1,0 +1,52 @@
+Winamax Poker - CashGame - HandId: #4811313-279-1372256703 - Holdem no limit (0.02€/0.05€) - 2013/06/26 14:25:03 UTC
+Table: 'Delhi 03' 9-max (real money) Seat #7 is the button
+Seat 1: DarKSiMoRe (5.60€)
+Seat 2: carlpool (8.29€)
+Seat 3: unkut3008 (19.73€)
+Seat 4: Muck Please (5€)
+Seat 5: floche_31 (5€)
+Seat 6: koici (5€)
+Seat 7: Poissounet (4.98€)
+Seat 8: MMilleniumm (1.93€)
+Seat 9: joele0690 (4.98€)
+*** ANTE/BLINDS ***
+MMilleniumm posts small blind 0.02€
+joele0690 posts big blind 0.05€
+koici posts big blind 0.05€ out of position
+Dealt to koici [4d Js]
+*** PRE-FLOP *** 
+DarKSiMoRe folds
+carlpool calls 0.05€
+unkut3008 calls 0.05€
+Muck Please folds
+koici checks
+Poissounet folds
+MMilleniumm calls 0.03€
+joele0690 checks
+*** FLOP *** [4h Jh Ah]
+MMilleniumm checks
+joele0690 checks
+carlpool bets 0.05€
+unkut3008 calls 0.05€
+koici calls 0.05€
+MMilleniumm folds
+joele0690 folds
+*** TURN *** [4h Jh Ah][2c]
+carlpool bets 0.05€
+unkut3008 calls 0.05€
+koici calls 0.05€
+*** RIVER *** [4h Jh Ah 2c][8s]
+carlpool checks
+unkut3008 checks
+koici checks
+*** SHOW DOWN ***
+carlpool shows [Ks Tc] (High card : Ace)
+unkut3008 shows [5s 6s] (High card : Ace)
+koici shows [4d Js] (Two pairs : Jacks and 4)
+koici collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.04€
+Board: [4h Jh Ah 2c 8s]
+Seat 2: carlpool showed [Ks Tc] and lost with High card : Ace
+Seat 3: unkut3008 showed [5s 6s] and lost with High card : Ace
+Seat 6: koici showed [4d Js] and won 0.51€ with Two pairs : Jacks and 4
