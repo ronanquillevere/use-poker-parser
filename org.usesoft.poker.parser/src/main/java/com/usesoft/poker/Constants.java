@@ -1,9 +1,6 @@
 package com.usesoft.poker;
 
-public class Constants {
-	
-	private Constants() {
-	}
+public interface Constants {
 
 	enum Style {
 		TexasHoldem, Omaha

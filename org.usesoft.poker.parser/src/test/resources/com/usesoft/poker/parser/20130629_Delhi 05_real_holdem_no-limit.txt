@@ -1,0 +1,3107 @@
+Winamax Poker - CashGame - HandId: #4823661-342-1372513936 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:52:16 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.11€)
+Seat 2: Da Rock (10.19€)
+Seat 3: piraxx (5.59€)
+Seat 4: Akitao (1.93€)
+Seat 5: varvane (1.74€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (7.40€)
+Seat 8: koici (5€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+piraxx posts big blind 0.05€
+*** PRE-FLOP *** 
+Akitao folds
+varvane folds
+gl67 folds
+joel1di1 folds
+Ash777 raises 0.13€ to 0.18€
+penumbra folds
+Da Rock folds
+piraxx folds
+Ash777 collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | No rake
+Seat 9: Ash777 won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #4823661-343-1372513971 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:52:51 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.11€)
+Seat 2: Da Rock (10.17€)
+Seat 3: piraxx (5.54€)
+Seat 4: Akitao (1.93€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (7.40€)
+Seat 8: koici (5€)
+Seat 9: Ash777 (5.28€)
+*** ANTE/BLINDS ***
+piraxx posts small blind 0.02€
+Akitao posts big blind 0.05€
+koici posts big blind 0.05€ out of position
+Dealt to koici [6h Kd]
+*** PRE-FLOP *** 
+gl67 folds
+joel1di1 folds
+koici checks
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx calls 0.03€
+Akitao checks
+*** FLOP *** [Td Ad 3c]
+piraxx checks
+Akitao checks
+koici checks
+*** TURN *** [Td Ad 3c][Kc]
+piraxx checks
+Akitao checks
+koici checks
+*** RIVER *** [Td Ad 3c Kc][5h]
+piraxx checks
+Akitao checks
+koici checks
+*** SHOW DOWN ***
+piraxx shows [6d 6c] (One pair : 6)
+Akitao shows [7d 3s] (One pair : 3)
+koici shows [6h Kd] (One pair : Kings)
+koici collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [Td Ad 3c Kc 5h]
+Seat 3: piraxx (small blind) showed [6d 6c] and lost with One pair : 6
+Seat 4: Akitao (big blind) showed [7d 3s] and lost with One pair : 3
+Seat 8: koici showed [6h Kd] and won 0.14€ with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #4823661-344-1372514026 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:53:46 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: penumbra (5.11€)
+Seat 2: Da Rock (10.17€)
+Seat 3: piraxx (5.49€)
+Seat 4: Akitao (1.88€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (7.40€)
+Seat 8: koici (5.09€)
+Seat 9: Ash777 (5.28€)
+*** ANTE/BLINDS ***
+Akitao posts small blind 0.02€
+j-backlash posts big blind 0.05€
+Dealt to koici [Tc 4h]
+*** PRE-FLOP *** 
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra raises 0.10€ to 0.15€
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+penumbra collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 1: penumbra won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-345-1372514057 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:54:17 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.18€)
+Seat 2: Da Rock (10.17€)
+Seat 3: piraxx (5.49€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (7.40€)
+Seat 8: koici (5.09€)
+Seat 9: Ash777 (5.28€)
+*** ANTE/BLINDS ***
+j-backlash posts small blind 0.02€
+gl67 posts big blind 0.05€
+Dealt to koici [Ah 7d]
+*** PRE-FLOP *** 
+joel1di1 calls 0.05€
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock raises 0.10€ to 0.15€
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 calls 0.10€
+*** FLOP *** [Th 4h Ad]
+joel1di1 checks
+Da Rock bets 0.20€
+joel1di1 calls 0.20€
+*** TURN *** [Th 4h Ad][8d]
+joel1di1 checks
+Da Rock bets 0.30€
+joel1di1 calls 0.30€
+*** RIVER *** [Th 4h Ad 8d][4d]
+joel1di1 checks
+Da Rock bets 0.46€
+joel1di1 calls 0.46€
+*** SHOW DOWN ***
+joel1di1 shows [Qd Ts] (Two pairs : Tens and 4)
+Da Rock shows [Ac Jd] (Two pairs : Aces and 4)
+Da Rock collected 2.14€ from pot
+*** SUMMARY ***
+Total pot 2.14€ | Rake 0.15€
+Board: [Th 4h Ad 8d 4d]
+Seat 2: Da Rock showed [Ac Jd] and won 2.14€ with Two pairs : Aces and 4
+Seat 7: joel1di1 showed [Qd Ts] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - CashGame - HandId: #4823661-346-1372514124 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:55:24 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: penumbra (5.18€)
+Seat 2: Da Rock (11.20€)
+Seat 3: piraxx (5.49€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.21€)
+Seat 7: joel1di1 (6.29€)
+Seat 8: koici (5.09€)
+Seat 9: Ash777 (5.28€)
+*** ANTE/BLINDS ***
+gl67 posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [8d 8c]
+*** PRE-FLOP *** 
+koici calls 0.05€
+Ash777 folds
+penumbra folds
+Da Rock raises 0.10€ to 0.15€
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 calls 0.10€
+koici calls 0.10€
+*** FLOP *** [2d Qh 5h]
+joel1di1 checks
+koici checks
+Da Rock checks
+*** TURN *** [2d Qh 5h][Ks]
+joel1di1 bets 0.20€
+koici folds
+Da Rock raises 0.28€ to 0.48€
+joel1di1 folds
+Da Rock collected 1.09€ from pot
+*** SUMMARY ***
+Total pot 1.09€ | Rake 0.06€
+Board: [2d Qh 5h Ks]
+Seat 2: Da Rock won 1.09€
+
+
+Winamax Poker - CashGame - HandId: #4823661-347-1372514175 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:56:15 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: penumbra (5.18€)
+Seat 2: Da Rock (11.66€)
+Seat 3: piraxx (5.49€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.19€)
+Seat 7: joel1di1 (5.94€)
+Seat 8: koici (4.94€)
+Seat 9: Ash777 (5.28€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [Qd 7s]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 raises 0.10€ to 0.15€
+joel1di1 calls 0.13€
+koici folds
+*** FLOP *** [Jc 3c Ts]
+joel1di1 checks
+gl67 bets 0.18€
+joel1di1 folds
+gl67 collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.02€
+Board: [Jc 3c Ts]
+Seat 6: gl67 (button) won 0.51€
+
+
+Winamax Poker - CashGame - HandId: #4823661-348-1372514222 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:57:02 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.18€)
+Seat 2: Da Rock (11.66€)
+Seat 3: piraxx (5.49€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.37€)
+Seat 7: joel1di1 (5.79€)
+Seat 8: koici (4.89€)
+Seat 9: Ash777 (5.28€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [3s 8s]
+*** PRE-FLOP *** 
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 folds
+joel1di1 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | No rake
+Seat 7: joel1di1 (button) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #4823661-349-1372514244 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:57:24 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5.18€)
+Seat 2: Da Rock (11.66€)
+Seat 3: piraxx (5.49€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.37€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (4.87€)
+Seat 9: Ash777 (5.23€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+penumbra posts big blind 0.05€
+Dealt to koici [5h 5s]
+*** PRE-FLOP *** 
+Da Rock folds
+piraxx raises 0.10€ to 0.15€
+Akitao folds
+j-backlash calls 0.15€
+gl67 folds
+joel1di1 folds
+koici calls 0.15€
+Ash777 folds
+penumbra folds
+*** FLOP *** [8h Jh 5d]
+piraxx bets 0.39€
+j-backlash folds
+koici calls 0.39€
+*** TURN *** [8h Jh 5d][9h]
+piraxx checks
+koici bets 0.65€
+piraxx folds
+koici collected 1.87€ from pot
+*** SUMMARY ***
+Total pot 1.87€ | Rake 0.08€
+Board: [8h Jh 5d 9h]
+Seat 8: koici (button) won 1.87€
+
+
+Winamax Poker - CashGame - HandId: #4823661-350-1372514304 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:58:24 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: penumbra (5.13€)
+Seat 2: Da Rock (11.66€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.37€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (5.55€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+penumbra posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [7s As]
+*** PRE-FLOP *** 
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-351-1372514321 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:58:41 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.11€)
+Seat 2: Da Rock (11.61€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.37€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (5.62€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+piraxx posts big blind 0.05€
+Dealt to koici [4c As]
+*** PRE-FLOP *** 
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra calls 0.15€
+Da Rock folds
+piraxx folds
+*** FLOP *** [8d 8h 7h]
+koici checks
+penumbra bets 0.25€
+koici calls 0.25€
+*** TURN *** [8d 8h 7h][Qh]
+koici bets 0.44€
+penumbra calls 0.44€
+*** RIVER *** [8d 8h 7h Qh][Qs]
+koici checks
+penumbra bets 1.15€
+koici folds
+penumbra collected 2.79€ from pot
+*** SUMMARY ***
+Total pot 2.79€ | Rake 0.11€
+Board: [8d 8h 7h Qh Qs]
+Seat 1: penumbra (button) won 2.79€
+
+
+Winamax Poker - CashGame - HandId: #4823661-352-1372514387 - Holdem no limit (0.02€/0.05€) - 2013/06/29 13:59:47 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.59€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.37€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+piraxx posts small blind 0.02€
+Akitao posts big blind 0.05€
+Dealt to koici [Ac 4s]
+*** PRE-FLOP *** 
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 4: Akitao (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #4823661-353-1372514415 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:00:15 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.59€)
+Seat 3: piraxx (4.98€)
+Seat 4: Akitao (1.88€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.37€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+Akitao posts small blind 0.02€
+j-backlash posts big blind 0.05€
+Dealt to koici [3h 4d]
+*** PRE-FLOP *** 
+gl67 calls 0.05€
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash checks
+*** FLOP *** [9c 7d 9h]
+j-backlash checks
+gl67 bets 0.06€
+j-backlash folds
+gl67 collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [9c 7d 9h]
+Seat 6: gl67 won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #4823661-354-1372514447 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:00:47 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.59€)
+Seat 3: piraxx (4.98€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.43€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+j-backlash posts small blind 0.02€
+gl67 posts big blind 0.05€
+Dealt to koici [Tc Ac]
+*** PRE-FLOP *** 
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 calls 0.10€
+*** FLOP *** [Qh 6c 3c]
+gl67 checks
+koici bets 0.21€
+gl67 folds
+koici collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.02€
+Board: [Qh 6c 3c]
+Seat 8: koici won 0.51€
+
+
+Winamax Poker - CashGame - HandId: #4823661-355-1372514501 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:01:41 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.59€)
+Seat 3: piraxx (4.98€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.28€)
+Seat 7: joel1di1 (5.86€)
+Seat 8: koici (4.93€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+gl67 posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [9h 2h]
+*** PRE-FLOP *** 
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock raises 0.10€ to 0.15€
+piraxx calls 0.15€
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+*** FLOP *** [7c 7s 8s]
+Da Rock checks
+piraxx checks
+*** TURN *** [7c 7s 8s][Qs]
+Da Rock checks
+piraxx bets 0.25€
+Da Rock folds
+piraxx collected 0.60€ from pot
+*** SUMMARY ***
+Total pot 0.60€ | Rake 0.02€
+Board: [7c 7s 8s Qs]
+Seat 3: piraxx won 0.60€
+
+
+Winamax Poker - CashGame - HandId: #4823661-356-1372514567 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:02:47 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.44€)
+Seat 3: piraxx (5.18€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (5.81€)
+Seat 8: koici (4.93€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [Qc Jh]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici calls 0.09€
+*** FLOP *** [8h 6h 5s]
+joel1di1 bets 0.18€
+koici calls 0.18€
+*** TURN *** [8h 6h 5s][2s]
+joel1di1 bets 0.28€
+koici raises 0.58€ to 0.86€
+joel1di1 calls 0.58€
+*** RIVER *** [8h 6h 5s 2s][9h]
+joel1di1 checks
+koici bets 1.50€
+joel1di1 calls 1.50€
+*** SHOW DOWN ***
+koici shows [Qc Jh] (High card : Queen)
+joel1di1 shows [6d 4c] (One pair : 6)
+joel1di1 collected 5.01€ from pot
+*** SUMMARY ***
+Total pot 5.01€ | Rake 0.35€
+Board: [8h 6h 5s 2s 9h]
+Seat 7: joel1di1 (small blind) showed [6d 4c] and won 5.01€ with One pair : 6
+Seat 8: koici (big blind) showed [Qc Jh] and lost with High card : Queen
+
+
+Winamax Poker - CashGame - HandId: #4823661-357-1372514648 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:04:08 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.44€)
+Seat 3: piraxx (5.18€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (8.14€)
+Seat 8: koici (2.25€)
+Seat 9: Ash777 (5.21€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [2h Ac]
+*** PRE-FLOP *** 
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+koici collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | No rake
+Seat 8: koici (small blind) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #4823661-358-1372514673 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:04:33 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.44€)
+Seat 3: piraxx (5.18€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (8.14€)
+Seat 8: koici (2.30€)
+Seat 9: Ash777 (5.16€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+penumbra posts big blind 0.05€
+Dealt to koici [Qs Ks]
+*** PRE-FLOP *** 
+Da Rock folds
+piraxx raises 0.10€ to 0.15€
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici calls 0.15€
+Ash777 folds
+penumbra folds
+*** FLOP *** [Js Qc 8s]
+piraxx checks
+koici checks
+*** TURN *** [Js Qc 8s][9d]
+piraxx checks
+koici bets 0.25€
+piraxx folds
+koici collected 0.60€ from pot
+*** SUMMARY ***
+Total pot 0.60€ | Rake 0.02€
+Board: [Js Qc 8s 9d]
+Seat 8: koici (button) won 0.60€
+
+
+Winamax Poker - CashGame - HandId: #4823661-359-1372514732 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:05:32 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: penumbra (5.86€)
+Seat 2: Da Rock (11.44€)
+Seat 3: piraxx (5.03€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.26€)
+Seat 7: joel1di1 (8.14€)
+Seat 8: koici (5€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+penumbra posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [3h Qs]
+*** PRE-FLOP *** 
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 calls 0.05€
+joel1di1 calls 0.05€
+koici raises 0.15€ to 0.20€
+Ash777 folds
+penumbra folds
+Da Rock folds
+gl67 calls 0.15€
+joel1di1 calls 0.15€
+*** FLOP *** [3s Qd Ad]
+gl67 checks
+joel1di1 checks
+koici bets 0.45€
+gl67 folds
+joel1di1 folds
+koici collected 1.08€ from pot
+*** SUMMARY ***
+Total pot 1.08€ | Rake 0.04€
+Board: [3s Qd Ad]
+Seat 8: koici won 1.08€
+
+
+Winamax Poker - CashGame - HandId: #4823661-360-1372514802 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:06:42 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (11.39€)
+Seat 3: piraxx (5.03€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.06€)
+Seat 7: joel1di1 (7.94€)
+Seat 8: koici (5.43€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+piraxx posts big blind 0.05€
+Dealt to koici [7h 9s]
+*** PRE-FLOP *** 
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx raises 0.28€ to 0.42€
+joel1di1 folds
+piraxx collected 0.58€ from pot
+*** SUMMARY ***
+Total pot 0.58€ | No rake
+Seat 3: piraxx (big blind) won 0.58€
+
+
+Winamax Poker - CashGame - HandId: #4823661-361-1372514842 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:07:22 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.19€)
+Seat 4: Akitao (1.86€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.06€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (5.43€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+piraxx posts small blind 0.02€
+Akitao posts big blind 0.05€
+Dealt to koici [2s 3c]
+*** PRE-FLOP *** 
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra raises 0.10€ to 0.15€
+Da Rock folds
+piraxx folds
+Akitao folds
+penumbra collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 1: penumbra won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-362-1372514872 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:07:52 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.17€)
+Seat 4: Akitao (1.81€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.06€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (5.43€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+Akitao posts small blind 0.02€
+j-backlash posts big blind 0.05€
+Dealt to koici [Td 6s]
+*** PRE-FLOP *** 
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra raises 0.10€ to 0.15€
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+penumbra collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 1: penumbra won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-363-1372514909 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:08:29 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.98€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.17€)
+Seat 4: Akitao (1.79€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.06€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (5.43€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+j-backlash posts small blind 0.02€
+gl67 posts big blind 0.05€
+Dealt to koici [4h 6h]
+*** PRE-FLOP *** 
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx calls 0.15€
+Akitao calls 0.15€
+j-backlash folds
+gl67 folds
+*** FLOP *** [7d Td 9c]
+koici checks
+piraxx checks
+Akitao checks
+*** TURN *** [7d Td 9c][Ts]
+koici checks
+piraxx checks
+Akitao checks
+*** RIVER *** [7d Td 9c Ts][Qh]
+koici checks
+piraxx checks
+Akitao checks
+*** SHOW DOWN ***
+piraxx shows [4c 5d] (One pair : Tens)
+koici shows [4h 6h] (One pair : Tens)
+Akitao shows [2c 2h] (Two pairs : Tens and 2)
+Akitao collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.03€
+Board: [7d Td 9c Ts Qh]
+Seat 3: piraxx showed [4c 5d] and lost with One pair : Tens
+Seat 4: Akitao (button) showed [2c 2h] and won 0.49€ with Two pairs : Tens and 2
+Seat 8: koici showed [4h 6h] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #4823661-364-1372514989 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:09:49 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: penumbra (5.98€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.02€)
+Seat 4: Akitao (2.13€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.01€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (5.28€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+gl67 posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [2h Kh]
+*** PRE-FLOP *** 
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 calls 0.03€
+joel1di1 checks
+*** FLOP *** [2d Ah Kc]
+gl67 bets 0.05€
+joel1di1 folds
+gl67 collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [2d Ah Kc]
+Seat 6: gl67 (small blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #4823661-365-1372515069 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:11:09 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: penumbra (5.98€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.02€)
+Seat 4: Akitao (2.13€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.75€)
+Seat 8: koici (5.28€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [7c 8d]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici calls 0.09€
+*** FLOP *** [7h Ts 9d]
+joel1di1 bets 0.14€
+koici calls 0.14€
+*** TURN *** [7h Ts 9d][Ad]
+joel1di1 checks
+koici checks
+*** RIVER *** [7h Ts 9d Ad][4c]
+joel1di1 checks
+koici checks
+*** SHOW DOWN ***
+joel1di1 shows [6c 7s] (One pair : 7)
+koici shows [7c 8d] (One pair : 7)
+koici collected 0.26€ from pot
+joel1di1 collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.52€ | Rake 0.04€
+Board: [7h Ts 9d Ad 4c]
+Seat 7: joel1di1 (small blind) showed [6c 7s] and won 0.26€ with One pair : 7
+Seat 8: koici (big blind) showed [7c 8d] and won 0.26€ with One pair : 7
+
+
+Winamax Poker - CashGame - HandId: #4823661-366-1372515132 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:12:12 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.98€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.02€)
+Seat 4: Akitao (2.13€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.73€)
+Seat 8: koici (5.26€)
+Seat 9: Ash777 (5.14€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [8s 9d]
+*** PRE-FLOP *** 
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 folds
+joel1di1 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | No rake
+Seat 7: joel1di1 (button) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #4823661-367-1372515180 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:13:00 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5.98€)
+Seat 2: Da Rock (11.37€)
+Seat 3: piraxx (5.02€)
+Seat 4: Akitao (2.13€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (5.24€)
+Seat 9: Ash777 (5.09€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+penumbra posts big blind 0.05€
+Dealt to koici [8d As]
+*** PRE-FLOP *** 
+Da Rock raises 0.10€ to 0.15€
+piraxx calls 0.15€
+Akitao calls 0.15€
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.45€ to 0.60€
+Ash777 folds
+penumbra folds
+Da Rock raises 1.20€ to 1.80€
+piraxx folds
+Akitao folds
+koici folds
+Da Rock collected 2.77€ from pot
+*** SUMMARY ***
+Total pot 2.77€ | No rake
+Seat 2: Da Rock won 2.77€
+
+
+Winamax Poker - CashGame - HandId: #4823661-368-1372515268 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:14:28 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: penumbra (5.93€)
+Seat 2: Da Rock (12.34€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (1.98€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (4.64€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+penumbra posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [2d 9h]
+*** PRE-FLOP *** 
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-369-1372515311 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:15:11 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.29€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (1.98€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (4.71€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+piraxx posts big blind 0.05€
+Dealt to koici [Qh 4s]
+*** PRE-FLOP *** 
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-370-1372515351 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:15:51 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (1.98€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+piraxx posts small blind 0.02€
+Akitao posts big blind 0.05€
+Dealt to koici [4d Tc]
+*** PRE-FLOP *** 
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx raises 0.10€ to 0.15€
+Akitao folds
+piraxx collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | No rake
+Seat 3: piraxx (small blind) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #4823661-371-1372515396 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:16:36 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (1.93€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+Akitao posts small blind 0.02€
+j-backlash posts big blind 0.05€
+Dealt to koici [4d 5h]
+*** PRE-FLOP *** 
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 5: j-backlash (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #4823661-372-1372515429 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:17:09 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (1.91€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (10.05€)
+Seat 7: joel1di1 (7.80€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+j-backlash posts small blind 0.02€
+gl67 posts big blind 0.05€
+Dealt to koici [Qc 8c]
+*** PRE-FLOP *** 
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | No rake
+Seat 7: joel1di1 won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #4823661-373-1372515485 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:18:05 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (1.91€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (10€)
+Seat 7: joel1di1 (7.87€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+gl67 posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [3s 9d]
+*** PRE-FLOP *** 
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 calls 0.03€
+joel1di1 raises 0.11€ to 0.16€
+gl67 folds
+joel1di1 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | No rake
+Seat 7: joel1di1 (big blind) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #4823661-374-1372515547 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:19:07 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (1.91€)
+Seat 5: j-backlash (1.98€)
+Seat 6: gl67 (9.95€)
+Seat 7: joel1di1 (7.92€)
+Seat 8: koici (4.78€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [4c 3s]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash calls 0.05€
+gl67 folds
+joel1di1 calls 0.03€
+koici checks
+*** FLOP *** [5s Kc 9d]
+joel1di1 checks
+koici checks
+j-backlash checks
+*** TURN *** [5s Kc 9d][6d]
+joel1di1 bets 0.10€
+koici folds
+j-backlash folds
+joel1di1 collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [5s Kc 9d 6d]
+Seat 7: joel1di1 (small blind) won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #4823661-375-1372515626 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:20:26 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (1.91€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.95€)
+Seat 7: joel1di1 (8.01€)
+Seat 8: koici (4.73€)
+Seat 9: Ash777 (5.07€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [9s 2s]
+*** PRE-FLOP *** 
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 raises 0.10€ to 0.15€
+joel1di1 calls 0.15€
+koici folds
+Ash777 folds
+*** FLOP *** [Qc Qd 6h]
+gl67 bets 0.19€
+joel1di1 calls 0.19€
+*** TURN *** [Qc Qd 6h][Ks]
+gl67 checks
+joel1di1 bets 0.40€
+gl67 folds
+joel1di1 collected 1.10€ from pot
+*** SUMMARY ***
+Total pot 1.10€ | Rake 0.05€
+Board: [Qc Qd 6h Ks]
+Seat 7: joel1di1 (button) won 1.10€
+
+
+Winamax Poker - CashGame - HandId: #4823661-376-1372515694 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:21:34 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5.91€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (1.91€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.61€)
+Seat 7: joel1di1 (8.37€)
+Seat 8: koici (4.71€)
+Seat 9: Ash777 (5.02€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+penumbra posts big blind 0.05€
+Dealt to koici [6h Ac]
+*** PRE-FLOP *** 
+Da Rock folds
+piraxx folds
+Akitao raises 0.10€ to 0.15€
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici calls 0.15€
+Ash777 folds
+penumbra folds
+*** FLOP *** [Jc Qh 4c]
+Akitao checks
+koici checks
+*** TURN *** [Jc Qh 4c][Qs]
+Akitao checks
+koici checks
+*** RIVER *** [Jc Qh 4c Qs][9d]
+Akitao bets 0.19€
+koici folds
+Akitao collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.02€
+Board: [Jc Qh 4c Qs 9d]
+Seat 4: Akitao won 0.54€
+
+
+Winamax Poker - CashGame - HandId: #4823661-377-1372515761 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:22:41 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: penumbra (5.86€)
+Seat 2: Da Rock (12.27€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (2.11€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.61€)
+Seat 7: joel1di1 (8.37€)
+Seat 8: koici (4.56€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+penumbra posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [5d Td]
+*** PRE-FLOP *** 
+piraxx folds
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-378-1372515795 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:23:15 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.22€)
+Seat 3: piraxx (5.05€)
+Seat 4: Akitao (2.11€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.61€)
+Seat 7: joel1di1 (8.37€)
+Seat 8: koici (4.63€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+piraxx posts big blind 0.05€
+Dealt to koici [9s 4d]
+*** PRE-FLOP *** 
+Akitao folds
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 calls 0.14€
+penumbra folds
+Da Rock folds
+piraxx folds
+*** FLOP *** [Kh 5h 6s]
+joel1di1 bets 0.22€
+Ash777 folds
+joel1di1 collected 0.55€ from pot
+*** SUMMARY ***
+Total pot 0.55€ | Rake 0.02€
+Board: [Kh 5h 6s]
+Seat 7: joel1di1 won 0.55€
+
+
+Winamax Poker - CashGame - HandId: #4823661-379-1372515861 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:24:21 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.20€)
+Seat 3: piraxx (5€)
+Seat 4: Akitao (2.11€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.61€)
+Seat 7: joel1di1 (8.56€)
+Seat 8: koici (4.63€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+piraxx posts small blind 0.02€
+Akitao posts big blind 0.05€
+Dealt to koici [Jd 7h]
+*** PRE-FLOP *** 
+j-backlash folds
+gl67 folds
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock calls 0.14€
+piraxx folds
+Akitao folds
+*** FLOP *** [6h 8c 8h]
+joel1di1 checks
+Da Rock bets 0.35€
+joel1di1 folds
+Da Rock collected 0.68€ from pot
+*** SUMMARY ***
+Total pot 0.68€ | Rake 0.02€
+Board: [6h 8c 8h]
+Seat 2: Da Rock (button) won 0.68€
+
+
+Winamax Poker - CashGame - HandId: #4823661-380-1372515918 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:25:18 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: Akitao (2.06€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.61€)
+Seat 7: joel1di1 (8.42€)
+Seat 8: koici (4.63€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+Akitao posts small blind 0.02€
+j-backlash posts big blind 0.05€
+Dealt to koici [Jc 9s]
+*** PRE-FLOP *** 
+gl67 folds
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao folds
+j-backlash collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 5: j-backlash (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #4823661-381-1372515949 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:25:49 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: Akitao (2.04€)
+Seat 5: j-backlash (2.02€)
+Seat 6: gl67 (9.61€)
+Seat 7: joel1di1 (8.42€)
+Seat 8: koici (4.63€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+j-backlash posts small blind 0.02€
+gl67 posts big blind 0.05€
+Dealt to koici [2d 5d]
+*** PRE-FLOP *** 
+joel1di1 raises 0.09€ to 0.14€
+koici folds
+Ash777 calls 0.14€
+penumbra folds
+Da Rock folds
+piraxx folds
+Akitao raises 0.42€ to 0.56€
+j-backlash folds
+gl67 folds
+joel1di1 raises 1.94€ to 2.50€
+Ash777 folds
+Akitao calls 1.48€ and is all-in
+*** FLOP *** [Qd Kd 4h]
+*** TURN *** [Qd Kd 4h][6h]
+*** RIVER *** [Qd Kd 4h 6h][Js]
+*** SHOW DOWN ***
+Akitao shows [Tc Th] (One pair : Tens)
+joel1di1 shows [Jc Jh] (Trips of Jacks)
+joel1di1 collected 4.47€ from pot
+*** SUMMARY ***
+Total pot 4.47€ | Rake 0.28€
+Board: [Qd Kd 4h 6h Js]
+Seat 4: Akitao (button) showed [Tc Th] and lost with One pair : Tens
+Seat 7: joel1di1 showed [Jc Jh] and won 4.47€ with Trips of Jacks
+
+
+Winamax Poker - CashGame - HandId: #4823661-382-1372516010 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:26:50 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: Akitao (0€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.56€)
+Seat 7: joel1di1 (10.39€)
+Seat 8: koici (4.63€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+gl67 posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [Ac Qs]
+*** PRE-FLOP *** 
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-383-1372516044 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:27:24 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: B4ST13N (5€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.54€)
+Seat 7: joel1di1 (10.34€)
+Seat 8: koici (4.70€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [3d 9s]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+piraxx folds
+j-backlash folds
+gl67 folds
+joel1di1 calls 0.03€
+koici checks
+*** FLOP *** [Ad 7c Td]
+joel1di1 checks
+koici checks
+*** TURN *** [Ad 7c Td][3s]
+joel1di1 bets 0.10€
+koici calls 0.10€
+*** RIVER *** [Ad 7c Td 3s][7h]
+joel1di1 checks
+koici checks
+*** SHOW DOWN ***
+koici shows [3d 9s] (Two pairs : 7 and 3)
+joel1di1 shows [8c Th] (Two pairs : Tens and 7)
+joel1di1 collected 0.28€ from pot
+*** SUMMARY ***
+Total pot 0.28€ | Rake 0.02€
+Board: [Ad 7c Td 3s 7h]
+Seat 7: joel1di1 (small blind) showed [8c Th] and won 0.28€ with Two pairs : Tens and 7
+Seat 8: koici (big blind) showed [3d 9s] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - CashGame - HandId: #4823661-384-1372516088 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:28:08 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: B4ST13N (5€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.54€)
+Seat 7: joel1di1 (10.47€)
+Seat 8: koici (4.55€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [4s 8s]
+*** PRE-FLOP *** 
+penumbra folds
+Da Rock folds
+piraxx folds
+j-backlash folds
+gl67 raises 0.10€ to 0.15€
+joel1di1 calls 0.15€
+koici folds
+Ash777 folds
+*** FLOP *** [6h Qc 6c]
+gl67 bets 0.19€
+joel1di1 folds
+gl67 collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.02€
+Board: [6h Qc 6c]
+Seat 6: gl67 won 0.54€
+
+
+Winamax Poker - CashGame - HandId: #4823661-385-1372516156 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:29:16 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5.84€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: B4ST13N (5€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.74€)
+Seat 7: joel1di1 (10.32€)
+Seat 8: koici (4.53€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+penumbra posts big blind 0.05€
+Dealt to koici [4d 8d]
+*** PRE-FLOP *** 
+Da Rock folds
+piraxx folds
+j-backlash folds
+gl67 folds
+joel1di1 calls 0.05€
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+joel1di1 folds
+koici collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 8: koici (button) won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #4823661-386-1372516194 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:29:54 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: penumbra (5.79€)
+Seat 2: Da Rock (12.39€)
+Seat 3: piraxx (4.98€)
+Seat 4: B4ST13N (5€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.74€)
+Seat 7: joel1di1 (10.27€)
+Seat 8: koici (4.65€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+penumbra posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [2s 8c]
+*** PRE-FLOP *** 
+piraxx folds
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-387-1372516220 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:30:20 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.77€)
+Seat 2: Da Rock (12.34€)
+Seat 3: piraxx (4.98€)
+Seat 4: B4ST13N (5€)
+Seat 5: j-backlash (2€)
+Seat 6: gl67 (9.74€)
+Seat 7: joel1di1 (10.27€)
+Seat 8: koici (4.72€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+piraxx denies big blind
+Da Rock posts small blind 0.02€
+B4ST13N posts big blind 0.05€
+Dealt to koici [6s 4c]
+*** PRE-FLOP *** 
+j-backlash folds
+gl67 folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock calls 0.13€
+B4ST13N folds
+*** FLOP *** [Qh 2s Kh]
+Da Rock checks
+koici bets 0.23€
+Da Rock folds
+koici collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.02€
+Board: [Qh 2s Kh]
+Seat 8: koici won 0.56€
+
+
+Winamax Poker - CashGame - HandId: #4823661-388-1372516261 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:31:01 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.77€)
+Seat 2: Da Rock (12.19€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (5€)
+Seat 6: gl67 (9.74€)
+Seat 7: joel1di1 (10.27€)
+Seat 8: koici (4.90€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+gl67 denies big blind
+B4ST13N posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [9h 3c]
+*** PRE-FLOP *** 
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock raises 0.10€ to 0.15€
+B4ST13N folds
+joel1di1 calls 0.10€
+*** FLOP *** [Js Jd 4s]
+joel1di1 checks
+Da Rock checks
+*** TURN *** [Js Jd 4s][3d]
+joel1di1 bets 0.20€
+Da Rock folds
+joel1di1 collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.02€
+Board: [Js Jd 4s 3d]
+Seat 7: joel1di1 (big blind) won 0.50€
+
+
+Winamax Poker - CashGame - HandId: #4823661-389-1372516294 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:31:34 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.77€)
+Seat 2: Da Rock (12.04€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (4.98€)
+Seat 7: joel1di1 (10.42€)
+Seat 8: koici (4.90€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [8s 9c]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+B4ST13N folds
+joel1di1 raises 0.11€ to 0.16€
+koici calls 0.11€
+*** FLOP *** [Ac Ad 2d]
+joel1di1 bets 0.22€
+koici folds
+joel1di1 collected 0.52€ from pot
+*** SUMMARY ***
+Total pot 0.52€ | Rake 0.02€
+Board: [Ac Ad 2d]
+Seat 7: joel1di1 (small blind) won 0.52€
+
+
+Winamax Poker - CashGame - HandId: #4823661-390-1372516332 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:32:12 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.77€)
+Seat 2: Da Rock (12.04€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (4.98€)
+Seat 7: joel1di1 (10.56€)
+Seat 8: koici (4.74€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [7s 7d]
+*** PRE-FLOP *** 
+penumbra folds
+Da Rock folds
+B4ST13N raises 0.15€ to 0.20€
+joel1di1 folds
+koici raises 0.40€ to 0.60€
+Ash777 folds
+B4ST13N calls 0.40€
+*** FLOP *** [Th Jc 4h]
+koici bets 0.95€
+B4ST13N raises 3.43€ to 4.38€ and is all-in
+koici folds
+B4ST13N collected 6.38€ from pot
+*** SUMMARY ***
+Total pot 6.38€ | Rake 0.20€
+Board: [Th Jc 4h]
+Seat 4: B4ST13N won 6.38€
+
+
+Winamax Poker - CashGame - HandId: #4823661-391-1372516404 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:33:24 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5.77€)
+Seat 2: Da Rock (12.04€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.38€)
+Seat 7: joel1di1 (10.56€)
+Seat 8: koici (3.19€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+penumbra posts big blind 0.05€
+Dealt to koici [Qh Ks]
+*** PRE-FLOP *** 
+Da Rock folds
+B4ST13N folds
+joel1di1 raises 0.09€ to 0.14€
+koici calls 0.14€
+Ash777 folds
+penumbra folds
+*** FLOP *** [Js As 5c]
+joel1di1 checks
+koici bets 0.23€
+joel1di1 folds
+koici collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.02€
+Board: [Js As 5c]
+Seat 8: koici (button) won 0.56€
+
+
+Winamax Poker - CashGame - HandId: #4823661-392-1372516433 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:33:53 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: penumbra (5.72€)
+Seat 2: Da Rock (12.04€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.38€)
+Seat 5: nikoos222 (5€)
+Seat 7: joel1di1 (10.42€)
+Seat 8: koici (3.38€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+penumbra posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [As Kd]
+*** PRE-FLOP *** 
+B4ST13N folds
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+penumbra folds
+Da Rock folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-393-1372516451 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:34:11 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: penumbra (5.70€)
+Seat 2: Da Rock (11.99€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.38€)
+Seat 5: nikoos222 (5€)
+Seat 7: joel1di1 (10.42€)
+Seat 8: koici (3.45€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+loops26 posts big blind 0.05€
+Dealt to koici [Ts 3s]
+*** PRE-FLOP *** 
+B4ST13N folds
+joel1di1 calls 0.05€
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+loops26 checks
+*** FLOP *** [Qc 8s Jh]
+loops26 checks
+joel1di1 bets 0.10€
+loops26 folds
+joel1di1 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Qc 8s Jh]
+Seat 7: joel1di1 won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #4823661-394-1372516502 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:35:02 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: penumbra (5.70€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.38€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (5€)
+Seat 7: joel1di1 (10.48€)
+Seat 8: koici (3.45€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+loops26 posts small blind 0.02€
+B4ST13N posts big blind 0.05€
+vincent1981 posts big blind 0.05€ out of position
+Dealt to koici [Ts 3c]
+*** PRE-FLOP *** 
+vincent1981 checks
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+loops26 calls 0.03€
+B4ST13N checks
+*** FLOP *** [Kh 2d Qs]
+loops26 checks
+B4ST13N checks
+vincent1981 bets 0.05€
+loops26 folds
+B4ST13N folds
+vincent1981 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Kh 2d Qs]
+Seat 6: vincent1981 won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #4823661-395-1372516542 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:35:42 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: penumbra (5.70€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.33€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (5.09€)
+Seat 7: joel1di1 (10.48€)
+Seat 8: koici (3.45€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+B4ST13N posts small blind 0.02€
+nikoos222 posts big blind 0.05€
+Dealt to koici [4s Jd]
+*** PRE-FLOP *** 
+vincent1981 folds
+joel1di1 calls 0.05€
+koici folds
+Ash777 raises 0.15€ to 0.20€
+penumbra calls 0.20€
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+joel1di1 folds
+*** FLOP *** [3d 6c Js]
+Ash777 bets 0.30€
+penumbra folds
+Ash777 collected 0.79€ from pot
+*** SUMMARY ***
+Total pot 0.79€ | Rake 0.03€
+Board: [3d 6c Js]
+Seat 9: Ash777 won 0.79€
+
+
+Winamax Poker - CashGame - HandId: #4823661-396-1372516579 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:36:19 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: penumbra (5.50€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (4.95€)
+Seat 6: vincent1981 (5.09€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (3.45€)
+Seat 9: Ash777 (5.27€)
+*** ANTE/BLINDS ***
+nikoos222 posts small blind 0.02€
+vincent1981 posts big blind 0.05€
+Dealt to koici [5c 7s]
+*** PRE-FLOP *** 
+joel1di1 folds
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 raises 0.10€ to 0.15€
+vincent1981 folds
+nikoos222 collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | No rake
+Seat 5: nikoos222 (small blind) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #4823661-397-1372516610 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:36:50 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: penumbra (5.50€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (5.04€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (3.45€)
+Seat 9: Ash777 (5.27€)
+*** ANTE/BLINDS ***
+vincent1981 posts small blind 0.02€
+joel1di1 posts big blind 0.05€
+Dealt to koici [3s Qd]
+*** PRE-FLOP *** 
+koici folds
+Ash777 folds
+penumbra folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+joel1di1 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 7: joel1di1 (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #4823661-398-1372516635 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:37:15 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: penumbra (5.50€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (5.02€)
+Seat 7: joel1di1 (10.45€)
+Seat 8: koici (3.45€)
+Seat 9: Ash777 (5.27€)
+*** ANTE/BLINDS ***
+joel1di1 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [4s 6s]
+*** PRE-FLOP *** 
+Ash777 folds
+penumbra folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+joel1di1 folds
+koici collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 8: koici (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #4823661-399-1372516664 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:37:44 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: penumbra (5.50€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (5.02€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (3.47€)
+Seat 9: Ash777 (5.27€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [7c 7h]
+*** PRE-FLOP *** 
+penumbra raises 0.10€ to 0.15€
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+joel1di1 folds
+koici calls 0.13€
+Ash777 folds
+*** FLOP *** [2d Tc 2s]
+koici bets 0.23€
+penumbra raises 0.47€ to 0.70€
+koici calls 0.47€
+*** TURN *** [2d Tc 2s][9h]
+koici bets 1.15€
+penumbra folds
+koici collected 2.79€ from pot
+*** SUMMARY ***
+Total pot 2.79€ | Rake 0.11€
+Board: [2d Tc 2s 9h]
+Seat 8: koici (small blind) won 2.79€
+
+
+Winamax Poker - CashGame - HandId: #4823661-400-1372516728 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:38:48 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: penumbra (5€)
+Seat 2: Da Rock (11.97€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (5.02€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.26€)
+Seat 9: Ash777 (5.22€)
+*** ANTE/BLINDS ***
+penumbra denies big blind
+Ash777 posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [8c Qc]
+*** PRE-FLOP *** 
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 calls 0.05€
+joel1di1 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+Da Rock folds
+vincent1981 calls 0.10€
+*** FLOP *** [7d 2h 3h]
+vincent1981 checks
+koici bets 0.25€
+vincent1981 folds
+koici collected 0.60€ from pot
+*** SUMMARY ***
+Total pot 0.60€ | Rake 0.02€
+Board: [7d 2h 3h]
+Seat 8: koici (button) won 0.60€
+
+
+Winamax Poker - CashGame - HandId: #4823661-401-1372516777 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:39:37 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 2: Da Rock (11.92€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (5€)
+Seat 6: vincent1981 (4.87€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.46€)
+Seat 9: Ash777 (5.20€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+loops26 posts big blind 0.05€
+Dealt to koici [5c 4c]
+*** PRE-FLOP *** 
+B4ST13N folds
+nikoos222 raises 0.10€ to 0.15€
+vincent1981 calls 0.15€
+joel1di1 folds
+koici calls 0.15€
+Ash777 folds
+Da Rock folds
+loops26 folds
+*** FLOP *** [Qh 5s 4h]
+nikoos222 checks
+vincent1981 checks
+koici bets 0.35€
+nikoos222 folds
+vincent1981 folds
+koici collected 0.84€ from pot
+*** SUMMARY ***
+Total pot 0.84€ | Rake 0.03€
+Board: [Qh 5s 4h]
+Seat 8: koici won 0.84€
+
+
+Winamax Poker - CashGame - HandId: #4823661-402-1372516937 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:42:17 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: ABBUOB59 (4.11€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.31€)
+Seat 5: nikoos222 (4.85€)
+Seat 6: vincent1981 (4.72€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.80€)
+Seat 9: Ash777 (5.20€)
+*** ANTE/BLINDS ***
+loops26 posts small blind 0.02€
+B4ST13N posts big blind 0.05€
+ABBUOB59 posts big blind 0.05€ out of position
+Dealt to koici [2h 8d]
+*** PRE-FLOP *** 
+nikoos222 folds
+vincent1981 calls 0.05€
+koici folds
+Ash777 raises 0.21€ to 0.26€
+ABBUOB59 folds
+Da Rock folds
+loops26 calls 0.24€
+B4ST13N folds
+vincent1981 calls 0.21€
+*** FLOP *** [Td 5h 6d]
+loops26 checks
+vincent1981 checks
+Ash777 checks
+*** TURN *** [Td 5h 6d][Th]
+loops26 checks
+vincent1981 checks
+Ash777 checks
+*** RIVER *** [Td 5h 6d Th][8h]
+loops26 checks
+vincent1981 bets 0.14€
+Ash777 folds
+loops26 folds
+vincent1981 collected 0.96€ from pot
+*** SUMMARY ***
+Total pot 0.96€ | Rake 0.06€
+Board: [Td 5h 6d Th 8h]
+Seat 6: vincent1981 won 0.96€
+
+
+Winamax Poker - CashGame - HandId: #4823661-403-1372516989 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:43:09 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: ABBUOB59 (4.06€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.26€)
+Seat 5: nikoos222 (4.85€)
+Seat 6: vincent1981 (5.28€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.80€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+B4ST13N posts small blind 0.02€
+nikoos222 posts big blind 0.05€
+Dealt to koici [6c 5c]
+*** PRE-FLOP *** 
+vincent1981 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+ABBUOB59 calls 0.15€
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+*** FLOP *** [Ac 9d 7d]
+koici bets 0.25€
+ABBUOB59 folds
+koici collected 0.60€ from pot
+*** SUMMARY ***
+Total pot 0.60€ | Rake 0.02€
+Board: [Ac 9d 7d]
+Seat 8: koici won 0.60€
+
+
+Winamax Poker - CashGame - HandId: #4823661-404-1372517039 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:43:59 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: ABBUOB59 (3.91€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.80€)
+Seat 6: vincent1981 (5.28€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (5€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+nikoos222 posts small blind 0.02€
+vincent1981 posts big blind 0.05€
+Dealt to koici [Qs 4h]
+*** PRE-FLOP *** 
+koici folds
+Ash777 folds
+ABBUOB59 folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 6: vincent1981 (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #4823661-405-1372517071 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:44:31 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: ABBUOB59 (3.91€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.78€)
+Seat 6: vincent1981 (5.30€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (5€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+vincent1981 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [3c Jd]
+*** PRE-FLOP *** 
+Ash777 folds
+ABBUOB59 folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 raises 0.10€ to 0.15€
+vincent1981 folds
+koici folds
+nikoos222 collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 5: nikoos222 (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-406-1372517099 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:44:59 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: ABBUOB59 (3.91€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.85€)
+Seat 6: vincent1981 (5.28€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.95€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+Ash777 posts big blind 0.05€
+Dealt to koici [Qd Jd]
+*** PRE-FLOP *** 
+ABBUOB59 calls 0.05€
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 calls 0.05€
+vincent1981 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+ABBUOB59 raises 0.10€ to 0.25€
+nikoos222 calls 0.20€
+koici calls 0.10€
+*** FLOP *** [4s Ts 7d]
+koici checks
+ABBUOB59 bets 0.05€
+nikoos222 calls 0.05€
+koici calls 0.05€
+*** TURN *** [4s Ts 7d][9c]
+koici checks
+ABBUOB59 bets 0.05€
+nikoos222 folds
+koici calls 0.05€
+*** RIVER *** [4s Ts 7d 9c][7h]
+koici checks
+ABBUOB59 bets 0.05€
+koici folds
+ABBUOB59 collected 1.03€ from pot
+*** SUMMARY ***
+Total pot 1.03€ | Rake 0.07€
+Board: [4s Ts 7d 9c 7h]
+Seat 1: ABBUOB59 won 1.03€
+
+
+Winamax Poker - CashGame - HandId: #4823661-407-1372517160 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:46:00 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: ABBUOB59 (4.54€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.55€)
+Seat 6: vincent1981 (5.28€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.60€)
+Seat 9: Ash777 (5€)
+*** ANTE/BLINDS ***
+Ash777 posts small blind 0.02€
+ABBUOB59 posts big blind 0.05€
+Dealt to koici [Ts 8c]
+*** PRE-FLOP *** 
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+ABBUOB59 folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-408-1372517179 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:46:19 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: ABBUOB59 (4.49€)
+Seat 2: Da Rock (11.90€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.55€)
+Seat 6: vincent1981 (5.28€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.67€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+ABBUOB59 posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [8d 6c]
+*** PRE-FLOP *** 
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+koici raises 0.10€ to 0.15€
+Ash777 folds
+ABBUOB59 folds
+Da Rock folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-409-1372517227 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:47:07 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: ABBUOB59 (4.47€)
+Seat 2: Da Rock (11.85€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.55€)
+Seat 6: vincent1981 (5.28€)
+Seat 7: joel1di1 (10.43€)
+Seat 8: koici (4.74€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+loops26 posts big blind 0.05€
+Dealt to koici [9s 2s]
+*** PRE-FLOP *** 
+B4ST13N folds
+nikoos222 folds
+vincent1981 calls 0.05€
+koici raises 0.10€ to 0.15€
+Ash777 folds
+ABBUOB59 folds
+Da Rock folds
+loops26 folds
+vincent1981 folds
+koici collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 8: koici won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #4823661-410-1372517287 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:48:07 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 1: ABBUOB59 (4.47€)
+Seat 2: Da Rock (11.83€)
+Seat 3: loops26 (5€)
+Seat 4: B4ST13N (6.24€)
+Seat 5: nikoos222 (4.55€)
+Seat 6: vincent1981 (5.23€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (4.86€)
+Seat 9: Ash777 (4.98€)
+*** ANTE/BLINDS ***
+loops26 posts small blind 0.02€
+B4ST13N posts big blind 0.05€
+sky-68 posts big blind 0.05€ out of position
+Dealt to koici [Js 8c]
+*** PRE-FLOP *** 
+nikoos222 folds
+vincent1981 folds
+sky-68 checks
+koici folds
+ABBUOB59 calls 0.05€
+Da Rock folds
+loops26 calls 0.03€
+B4ST13N checks
+*** FLOP *** [Ks 6d 7d]
+loops26 checks
+B4ST13N checks
+sky-68 checks
+ABBUOB59 checks
+*** TURN *** [Ks 6d 7d][Qc]
+loops26 checks
+B4ST13N checks
+sky-68 checks
+ABBUOB59 bets 0.05€
+loops26 calls 0.05€
+B4ST13N folds
+sky-68 folds
+*** RIVER *** [Ks 6d 7d Qc][Qh]
+loops26 bets 0.15€
+ABBUOB59 calls 0.15€
+*** SHOW DOWN ***
+ABBUOB59 shows [8s Kc] (Two pairs : Kings and Queens)
+loops26 shows [Ts Qd] (Trips of Queens)
+loops26 collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.04€
+Board: [Ks 6d 7d Qc Qh]
+Seat 1: ABBUOB59 showed [8s Kc] and lost with Two pairs : Kings and Queens
+Seat 3: loops26 (small blind) showed [Ts Qd] and won 0.56€ with Trips of Queens
+
+
+Winamax Poker - CashGame - HandId: #4823661-411-1372517382 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:49:42 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: ABBUOB59 (4.22€)
+Seat 2: Da Rock (11.83€)
+Seat 3: loops26 (5.31€)
+Seat 4: B4ST13N (6.19€)
+Seat 5: nikoos222 (4.55€)
+Seat 6: vincent1981 (5.23€)
+Seat 7: sky-68 (4.95€)
+Seat 8: koici (4.86€)
+*** ANTE/BLINDS ***
+B4ST13N posts small blind 0.02€
+nikoos222 posts big blind 0.05€
+Dealt to koici [3s 3h]
+*** PRE-FLOP *** 
+vincent1981 folds
+sky-68 folds
+koici raises 0.10€ to 0.15€
+ABBUOB59 folds
+Da Rock calls 0.15€
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+*** FLOP *** [6c Ah Ad]
+koici bets 0.25€
+Da Rock raises 0.31€ to 0.56€
+koici raises 0.31€ to 0.87€
+Da Rock calls 0.31€
+*** TURN *** [6c Ah Ad][7c]
+koici bets 1.40€
+Da Rock folds
+koici collected 3.37€ from pot
+*** SUMMARY ***
+Total pot 3.37€ | Rake 0.14€
+Board: [6c Ah Ad 7c]
+Seat 8: koici won 3.37€
+
+
+Winamax Poker - CashGame - HandId: #4823661-412-1372517461 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:51:01 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 1: ABBUOB59 (4.22€)
+Seat 2: Da Rock (10.81€)
+Seat 3: loops26 (5.31€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (4.50€)
+Seat 6: vincent1981 (5.23€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (5.81€)
+*** ANTE/BLINDS ***
+nikoos222 posts small blind 0.02€
+vincent1981 posts big blind 0.05€
+Dealt to koici [Kh Qc]
+*** PRE-FLOP *** 
+sky-68 folds
+koici raises 0.10€ to 0.15€
+ABBUOB59 folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-413-1372517489 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:51:29 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 1: ABBUOB59 (4.22€)
+Seat 2: Da Rock (10.81€)
+Seat 3: loops26 (5.31€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (4.48€)
+Seat 6: vincent1981 (5.18€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (5.88€)
+*** ANTE/BLINDS ***
+vincent1981 posts small blind 0.02€
+sky-68 posts big blind 0.05€
+Dealt to koici [4s 6s]
+*** PRE-FLOP *** 
+koici folds
+ABBUOB59 calls 0.05€
+Da Rock raises 0.10€ to 0.15€
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+sky-68 calls 0.10€
+ABBUOB59 calls 0.10€
+*** FLOP *** [Tc 3s 2d]
+sky-68 checks
+ABBUOB59 checks
+Da Rock checks
+*** TURN *** [Tc 3s 2d][6h]
+sky-68 checks
+ABBUOB59 bets 0.05€
+Da Rock calls 0.05€
+sky-68 calls 0.05€
+*** RIVER *** [Tc 3s 2d 6h][Qd]
+sky-68 checks
+ABBUOB59 bets 0.05€
+Da Rock raises 0.34€ to 0.39€
+sky-68 folds
+ABBUOB59 raises 1.40€ to 1.79€
+Da Rock folds
+ABBUOB59 collected 2.71€ from pot
+*** SUMMARY ***
+Total pot 2.71€ | Rake 0.09€
+Board: [Tc 3s 2d 6h Qd]
+Seat 1: ABBUOB59 won 2.71€
+
+
+Winamax Poker - CashGame - HandId: #4823661-414-1372517604 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:53:24 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: ABBUOB59 (4.94€)
+Seat 2: Da Rock (10.22€)
+Seat 3: loops26 (5.31€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (4.48€)
+Seat 6: vincent1981 (5.16€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (5.88€)
+Seat 9: wataflan (5€)
+*** ANTE/BLINDS ***
+sky-68 posts small blind 0.02€
+koici posts big blind 0.05€
+Dealt to koici [As 2s]
+*** PRE-FLOP *** 
+ABBUOB59 calls 0.05€
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+sky-68 calls 0.03€
+koici raises 0.10€ to 0.15€
+ABBUOB59 calls 0.10€
+sky-68 folds
+*** FLOP *** [Qh 6d 9c]
+koici bets 0.23€
+ABBUOB59 folds
+koici collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.02€
+Board: [Qh 6d 9c]
+Seat 8: koici (big blind) won 0.56€
+
+
+Winamax Poker - CashGame - HandId: #4823661-415-1372517670 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:54:30 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: ABBUOB59 (4.79€)
+Seat 2: Da Rock (10.22€)
+Seat 3: loops26 (5.31€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (4.48€)
+Seat 6: vincent1981 (5.16€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (6.06€)
+Seat 9: wataflan (5€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+wataflan posts big blind 0.05€
+Dealt to koici [Ad Kc]
+*** PRE-FLOP *** 
+ABBUOB59 folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 raises 0.10€ to 0.15€
+vincent1981 folds
+sky-68 folds
+koici raises 0.30€ to 0.45€
+wataflan folds
+nikoos222 calls 0.30€
+*** FLOP *** [6s Qh Js]
+koici bets 0.63€
+nikoos222 calls 0.63€
+*** TURN *** [6s Qh Js][6d]
+koici checks
+nikoos222 checks
+*** RIVER *** [6s Qh Js 6d][Qs]
+koici checks
+nikoos222 checks
+*** SHOW DOWN ***
+koici shows [Ad Kc] (Two pairs : Queens and 6)
+nikoos222 shows [Jc Kh] (Two pairs : Queens and Jacks)
+nikoos222 collected 2.07€ from pot
+*** SUMMARY ***
+Total pot 2.07€ | Rake 0.14€
+Board: [6s Qh Js 6d Qs]
+Seat 5: nikoos222 showed [Jc Kh] and won 2.07€ with Two pairs : Queens and Jacks
+Seat 8: koici (small blind) showed [Ad Kc] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - CashGame - HandId: #4823661-416-1372517745 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:55:45 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 2: Da Rock (10.22€)
+Seat 3: loops26 (5.31€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (5.47€)
+Seat 6: vincent1981 (5.16€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (4.98€)
+Seat 9: wataflan (4.95€)
+*** ANTE/BLINDS ***
+wataflan posts small blind 0.02€
+Da Rock posts big blind 0.05€
+Dealt to koici [Ts 7h]
+*** PRE-FLOP *** 
+loops26 raises 0.10€ to 0.15€
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+sky-68 folds
+koici folds
+wataflan calls 0.13€
+Da Rock folds
+*** FLOP *** [6s 9s 7s]
+wataflan checks
+loops26 checks
+*** TURN *** [6s 9s 7s][Th]
+wataflan checks
+loops26 checks
+*** RIVER *** [6s 9s 7s Th][Kc]
+wataflan checks
+loops26 checks
+*** SHOW DOWN ***
+loops26 shows [Ac Qd] (High card : Ace)
+wataflan shows [Kh Jh] (One pair : Kings)
+wataflan collected 0.33€ from pot
+*** SUMMARY ***
+Total pot 0.33€ | Rake 0.02€
+Board: [6s 9s 7s Th Kc]
+Seat 3: loops26 showed [Ac Qd] and lost with High card : Ace
+Seat 9: wataflan (small blind) showed [Kh Jh] and won 0.33€ with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #4823661-417-1372517781 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:56:21 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 2: Da Rock (10.17€)
+Seat 3: loops26 (5.16€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (5.47€)
+Seat 6: vincent1981 (5.16€)
+Seat 7: sky-68 (5€)
+Seat 8: koici (4.98€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+Da Rock posts small blind 0.02€
+loops26 posts big blind 0.05€
+Dealt to koici [2c 4h]
+*** PRE-FLOP *** 
+B4ST13N folds
+nikoos222 folds
+vincent1981 calls 0.05€
+sky-68 calls 0.05€
+koici raises 0.10€ to 0.15€
+wataflan folds
+Da Rock folds
+loops26 folds
+vincent1981 calls 0.10€
+sky-68 calls 0.10€
+*** FLOP *** [Ad 9c 3s]
+vincent1981 checks
+sky-68 bets 0.26€
+koici folds
+vincent1981 folds
+sky-68 collected 0.75€ from pot
+*** SUMMARY ***
+Total pot 0.75€ | Rake 0.03€
+Board: [Ad 9c 3s]
+Seat 7: sky-68 won 0.75€
+
+
+Winamax Poker - CashGame - HandId: #4823661-418-1372517896 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:58:16 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #2 is the button
+Seat 2: Da Rock (10.15€)
+Seat 3: loops26 (5.11€)
+Seat 4: B4ST13N (6.17€)
+Seat 5: nikoos222 (5.47€)
+Seat 6: vincent1981 (5.01€)
+Seat 7: sky-68 (5.34€)
+Seat 8: koici (4.83€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+loops26 posts small blind 0.02€
+B4ST13N posts big blind 0.05€
+Dealt to koici [9s Kd]
+*** PRE-FLOP *** 
+nikoos222 folds
+vincent1981 calls 0.05€
+sky-68 folds
+koici raises 0.10€ to 0.15€
+wataflan folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+vincent1981 calls 0.10€
+*** FLOP *** [4s Qs 7h]
+vincent1981 bets 0.20€
+koici folds
+vincent1981 collected 0.55€ from pot
+*** SUMMARY ***
+Total pot 0.55€ | Rake 0.02€
+Board: [4s Qs 7h]
+Seat 6: vincent1981 won 0.55€
+
+
+Winamax Poker - CashGame - HandId: #4823661-419-1372517963 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:59:23 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 2: Da Rock (10.15€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.12€)
+Seat 5: nikoos222 (5.47€)
+Seat 6: vincent1981 (5.21€)
+Seat 7: sky-68 (5.34€)
+Seat 8: koici (4.68€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+B4ST13N posts small blind 0.02€
+nikoos222 posts big blind 0.05€
+Dealt to koici [Jd Qs]
+*** PRE-FLOP *** 
+vincent1981 folds
+sky-68 folds
+koici raises 0.10€ to 0.15€
+wataflan folds
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-420-1372517998 - Holdem no limit (0.02€/0.05€) - 2013/06/29 14:59:58 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #4 is the button
+Seat 2: Da Rock (10.15€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.10€)
+Seat 5: nikoos222 (5.42€)
+Seat 6: vincent1981 (5.21€)
+Seat 7: sky-68 (5.34€)
+Seat 8: koici (4.75€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+nikoos222 posts small blind 0.02€
+vincent1981 posts big blind 0.05€
+Dealt to koici [4s Ts]
+*** PRE-FLOP *** 
+sky-68 folds
+koici folds
+wataflan folds
+Da Rock raises 0.11€ to 0.16€
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+Da Rock collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | No rake
+Seat 2: Da Rock won 0.23€
+
+
+Winamax Poker - CashGame - HandId: #4823661-421-1372518020 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:00:20 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #5 is the button
+Seat 2: Da Rock (10.22€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.10€)
+Seat 5: nikoos222 (5.40€)
+Seat 6: vincent1981 (5.16€)
+Seat 7: sky-68 (5.34€)
+Seat 8: koici (4.75€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+vincent1981 posts small blind 0.02€
+sky-68 posts big blind 0.05€
+Dealt to koici [9d Ad]
+*** PRE-FLOP *** 
+koici folds
+wataflan folds
+Da Rock raises 0.11€ to 0.16€
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+sky-68 raises 0.27€ to 0.43€
+Da Rock calls 0.27€
+*** FLOP *** [2s 4h Js]
+sky-68 checks
+Da Rock checks
+*** TURN *** [2s 4h Js][9s]
+sky-68 bets 0.59€
+Da Rock calls 0.59€
+*** RIVER *** [2s 4h Js 9s][Qd]
+sky-68 bets 1.24€
+Da Rock folds
+sky-68 collected 3.17€ from pot
+*** SUMMARY ***
+Total pot 3.17€ | Rake 0.13€
+Board: [2s 4h Js 9s Qd]
+Seat 7: sky-68 (big blind) won 3.17€
+
+
+Winamax Poker - CashGame - HandId: #4823661-422-1372518087 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:01:27 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #6 is the button
+Seat 1: boulet du 08 (5€)
+Seat 2: Da Rock (9.20€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.10€)
+Seat 5: nikoos222 (5.40€)
+Seat 6: vincent1981 (5.14€)
+Seat 7: sky-68 (6.25€)
+Seat 8: koici (4.75€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+sky-68 posts small blind 0.02€
+koici posts big blind 0.05€
+boulet du 08 posts big blind 0.05€ out of position
+Dealt to koici [3s 9c]
+*** PRE-FLOP *** 
+wataflan folds
+boulet du 08 checks
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 folds
+sky-68 calls 0.03€
+koici checks
+*** FLOP *** [Td Jd 6h]
+sky-68 bets 0.12€
+koici folds
+boulet du 08 calls 0.12€
+*** TURN *** [Td Jd 6h][5s]
+sky-68 bets 0.26€
+boulet du 08 calls 0.26€
+*** RIVER *** [Td Jd 6h 5s][5c]
+sky-68 bets 0.46€
+boulet du 08 calls 0.46€
+*** SHOW DOWN ***
+boulet du 08 shows [Th Ac] (Two pairs : Tens and 5)
+sky-68 shows [Ks Jh] (Two pairs : Jacks and 5)
+sky-68 collected 1.71€ from pot
+*** SUMMARY ***
+Total pot 1.71€ | Rake 0.12€
+Board: [Td Jd 6h 5s 5c]
+Seat 1: boulet du 08 showed [Th Ac] and lost with Two pairs : Tens and 5
+Seat 7: sky-68 (small blind) showed [Ks Jh] and won 1.71€ with Two pairs : Jacks and 5
+
+
+Winamax Poker - CashGame - HandId: #4823661-423-1372518188 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:03:08 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #7 is the button
+Seat 1: boulet du 08 (4.11€)
+Seat 2: Da Rock (9.20€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.10€)
+Seat 5: nikoos222 (5.40€)
+Seat 6: vincent1981 (5.14€)
+Seat 7: sky-68 (7.07€)
+Seat 8: koici (4.70€)
+Seat 9: wataflan (5.13€)
+*** ANTE/BLINDS ***
+koici posts small blind 0.02€
+wataflan posts big blind 0.05€
+Dealt to koici [6d Jh]
+*** PRE-FLOP *** 
+boulet du 08 calls 0.05€
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 folds
+vincent1981 calls 0.05€
+sky-68 folds
+koici folds
+wataflan checks
+*** FLOP *** [6s Qd 5d]
+wataflan checks
+boulet du 08 checks
+vincent1981 bets 0.05€
+wataflan folds
+boulet du 08 folds
+vincent1981 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [6s Qd 5d]
+Seat 6: vincent1981 won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #4823661-424-1372518240 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:04:00 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #8 is the button
+Seat 1: boulet du 08 (4.06€)
+Seat 2: Da Rock (9.20€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.10€)
+Seat 5: nikoos222 (5.40€)
+Seat 6: vincent1981 (5.25€)
+Seat 7: sky-68 (7.07€)
+Seat 8: koici (4.68€)
+Seat 9: wataflan (5.08€)
+*** ANTE/BLINDS ***
+wataflan posts small blind 0.02€
+boulet du 08 posts big blind 0.05€
+Dealt to koici [Kc 3d]
+*** PRE-FLOP *** 
+Da Rock folds
+loops26 folds
+B4ST13N folds
+nikoos222 raises 0.05€ to 0.10€
+vincent1981 folds
+sky-68 calls 0.10€
+koici folds
+wataflan calls 0.08€
+boulet du 08 calls 0.05€
+*** FLOP *** [3c 7c 3s]
+wataflan checks
+boulet du 08 checks
+nikoos222 checks
+sky-68 bets 0.27€
+wataflan folds
+boulet du 08 folds
+nikoos222 folds
+sky-68 collected 0.64€ from pot
+*** SUMMARY ***
+Total pot 0.64€ | Rake 0.03€
+Board: [3c 7c 3s]
+Seat 7: sky-68 won 0.64€
+
+
+Winamax Poker - CashGame - HandId: #4823661-425-1372518327 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:05:27 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #9 is the button
+Seat 1: boulet du 08 (3.96€)
+Seat 2: Da Rock (9.20€)
+Seat 3: loops26 (5.09€)
+Seat 4: B4ST13N (6.10€)
+Seat 5: nikoos222 (5.30€)
+Seat 6: vincent1981 (5.25€)
+Seat 7: sky-68 (7.34€)
+Seat 8: koici (4.68€)
+Seat 9: wataflan (4.98€)
+*** ANTE/BLINDS ***
+Da Rock denies big blind
+boulet du 08 posts small blind 0.02€
+loops26 posts big blind 0.05€
+Dealt to koici [Qs 7d]
+*** PRE-FLOP *** 
+B4ST13N folds
+nikoos222 folds
+vincent1981 calls 0.05€
+sky-68 calls 0.05€
+koici folds
+wataflan folds
+boulet du 08 calls 0.03€
+loops26 checks
+*** FLOP *** [2h 6c 9d]
+boulet du 08 checks
+loops26 checks
+vincent1981 bets 0.05€
+sky-68 calls 0.05€
+boulet du 08 calls 0.05€
+loops26 calls 0.05€
+*** TURN *** [2h 6c 9d][Td]
+boulet du 08 checks
+loops26 checks
+vincent1981 bets 0.05€
+sky-68 calls 0.05€
+boulet du 08 calls 0.05€
+loops26 folds
+*** RIVER *** [2h 6c 9d Td][2d]
+boulet du 08 checks
+vincent1981 bets 0.05€
+sky-68 folds
+boulet du 08 folds
+vincent1981 collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.04€
+Board: [2h 6c 9d Td 2d]
+Seat 6: vincent1981 won 0.56€
+
+
+Winamax Poker - CashGame - HandId: #4823661-426-1372518413 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:06:53 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #1 is the button
+Seat 1: boulet du 08 (3.81€)
+Seat 2: Da Rock (9.20€)
+Seat 3: loops26 (4.99€)
+Seat 5: nikoos222 (5.30€)
+Seat 6: vincent1981 (5.61€)
+Seat 7: sky-68 (7.19€)
+Seat 8: koici (4.68€)
+Seat 9: wataflan (4.98€)
+*** ANTE/BLINDS ***
+loops26 posts small blind 0.02€
+nikoos222 posts big blind 0.05€
+Dealt to koici [2s 7s]
+*** PRE-FLOP *** 
+vincent1981 folds
+sky-68 folds
+koici raises 0.10€ to 0.15€
+wataflan folds
+boulet du 08 folds
+loops26 folds
+nikoos222 folds
+koici collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 8: koici won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #4823661-427-1372518436 - Holdem no limit (0.02€/0.05€) - 2013/06/29 15:07:16 UTC
+Table: 'Delhi 05' 9-max (real money) Seat #3 is the button
+Seat 1: boulet du 08 (3.81€)
+Seat 2: Da Rock (9.20€)
+Seat 3: loops26 (4.97€)
+Seat 5: nikoos222 (5.25€)
+Seat 6: vincent1981 (5.61€)
+Seat 7: sky-68 (7.19€)
+Seat 8: koici (4.75€)
+Seat 9: wataflan (4.98€)
+*** ANTE/BLINDS ***
+nikoos222 posts small blind 0.02€
+vincent1981 posts big blind 0.05€
+Dealt to koici [3c 2h]
+*** PRE-FLOP *** 
+sky-68 calls 0.05€
+koici folds
+wataflan folds
+boulet du 08 calls 0.05€
+loops26 folds
+nikoos222 folds
+vincent1981 checks
+*** FLOP *** [4h 4d Ks]
+vincent1981 checks
+sky-68 checks
+boulet du 08 checks
+*** TURN *** [4h 4d Ks][Qd]
+vincent1981 checks
+sky-68 bets 0.11€
+boulet du 08 calls 0.11€
+vincent1981 folds
+*** RIVER *** [4h 4d Ks Qd][Td]
+sky-68 bets 0.29€
+boulet du 08 calls 0.29€
+*** SHOW DOWN ***
+boulet du 08 shows [9s Qs] (Two pairs : Queens and 4)
+sky-68 shows [Jd Kd] (Flush King high)
+sky-68 collected 0.91€ from pot
+*** SUMMARY ***
+Total pot 0.91€ | Rake 0.06€
+Board: [4h 4d Ks Qd Td]
+Seat 1: boulet du 08 showed [9s Qs] and lost with Two pairs : Queens and 4
+Seat 7: sky-68 showed [Jd Kd] and won 0.91€ with Flush King high
+
+
