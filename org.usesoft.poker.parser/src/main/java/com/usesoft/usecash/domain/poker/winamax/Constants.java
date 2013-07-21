@@ -1,4 +1,4 @@
-package com.usesoft.poker.winamax;
+package com.usesoft.usecash.domain.poker.winamax;
 
 public interface Constants {
 	

@@ -1,4 +1,4 @@
-package com.usesoft.poker;
+package com.usesoft.usecash.domain.poker;
 
 /**
  * Hello world!

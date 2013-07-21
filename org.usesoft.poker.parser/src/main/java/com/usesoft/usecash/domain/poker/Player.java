@@ -1,4 +1,4 @@
-package com.usesoft.poker;
+package com.usesoft.usecash.domain.poker;
 
 public class Player {
 	public Player(String name, double bankroll, int seat, boolean button) {

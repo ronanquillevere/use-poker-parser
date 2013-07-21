@@ -1,9 +1,9 @@
-package com.usesoft.poker;
+package com.usesoft.usecash.domain.poker;
 
 public interface Constants {
 
-	enum Style {
-		TexasHoldem, Omaha
+	enum Variant {
+		Holdem, Omaha
 	}
 	
 	enum Software {
@@ -14,7 +14,7 @@ public interface Constants {
 		NoLimit, Limit, PotLimit
 	}
 	
-	enum Type {
+	enum GameType {
 		CashGame, Tournament
 	}
 	
@@ -36,8 +36,8 @@ public interface Constants {
 	}
 	
 	enum Currency {
-		eur,
-		dol
+		euro,
+		dollar
 	}
 	
 	public static class Tournament {
